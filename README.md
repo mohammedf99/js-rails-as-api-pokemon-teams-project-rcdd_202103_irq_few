@@ -36,6 +36,7 @@ not work. Rather, your task is to build towards the goals below by constructing
 both a Rails API and JavaScript frontend together. The specific implementation
 for achieving these goals is left to you.
 
+
 - When a user loads the page, they should see all trainers, with their current
   team of Pokemon.
 - Whenever a user hits "Add Pokemon" and they have space on their team, they
